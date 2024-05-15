@@ -1,0 +1,323 @@
+.container {
+    max-width: 1440px;
+    height: 1200px;
+    background-color: #F0F2FA;
+    display: flex;
+}
+
+.divs1 {
+    width: 253px;
+    height: 1200px;
+    background-color: #2F49D1;
+}
+
+.divs1_img {
+    margin-top: 22px;
+    margin-left: 20px;
+    position: absolute;
+}
+
+.divs1_text {
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 88px;
+    position: absolute;
+    font-size: 20.63px;
+    font-weight: 700;
+    line-height: 29.22px;
+    letter-spacing: 0.8595330119132996px;
+    color: white;
+}
+
+.divs1_img2 {
+    margin-top: 30px;
+    margin-left: 201px;
+    position: absolute;
+}
+
+.divs1_div1 {
+    width: 253px;
+    height: 51px;
+    margin-top: 121px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div1:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div2 {
+    width: 253px;
+    height: 51px;
+    margin-top: 170px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div2:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div3 {
+    width: 253px;
+    height: 51px;
+    margin-top: 219px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div3:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div4 {
+    width: 253px;
+    height: 51px;
+    margin-top: 268px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div4:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div5 {
+    width: 253px;
+    height: 51px;
+    margin-top: 317px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div5:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div6 {
+    width: 253px;
+    height: 51px;
+    margin-top: 366px;
+    position: absolute;
+    transition: .5s;
+    border-right: 5px solid transparent;
+}
+
+.divs1_div6:hover {
+    transition: .5s;
+    cursor: pointer;
+    background-color: #01265F;
+    border-right: 5px solid white;
+}
+
+.divs1_div1_img {
+    margin-top: 19px;
+    margin-left: 20px;
+    position: absolute;
+}
+
+.jurabek {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 34px;
+    margin-top: 12px;
+    margin-left: 56px;
+    position: absolute;
+}
+
+.divs2 {
+    width: 1187px;
+    height: 1150px;
+    background-color: #F0F2FA;
+}
+
+.divs2_header {
+    width: 1187px;
+    height: 80px;
+    background-color: white;
+}
+
+.divs2_header_text {
+    margin-top: 20px;
+    margin-left: 32px;
+    position: absolute;
+    color: #0061F7;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    letter-spacing: 0.01em;
+}
+
+.divs2_header_text2 {
+    margin-top: 26px;
+    margin-left: 609px;
+    position: absolute;
+    color: #0061F7;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.divs2_header_section {
+    margin-top: 28px;
+    margin-left: 955px;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.36px;
+    letter-spacing: 1px;
+    border: 1px solid transparent;
+    outline: none;
+}
+
+.sun {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 1043px;
+    position: absolute;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 27px;
+    transition: .5s;
+
+}
+
+.sun:hover {
+    transition: .5s;
+    cursor: pointer;
+    color: #0061F7;
+    border: 1px solid #0061F7;
+    background-color: #fff;
+}
+
+.cloud {
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 1115px;
+    position: absolute;
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 27px;
+    transition: .5s;
+}
+
+.cloud:hover {
+    transition: .5s;
+    cursor: pointer;
+    color: #0061F7;
+    border: 1px solid #0061F7;
+    background-color: #fff;
+}
+
+.sardor {
+    width: 545px;
+    height: 228px;
+    margin-top: 112px;
+    margin-left: 32px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 25px 0px #00000026;
+}
+
+.war {
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38.73px;
+    letter-spacing: -1px;
+}
+
+.wit {
+    margin-top: 79px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 43.57px;
+    letter-spacing: -1px;
+}
+
+.hela {
+    width: 100px;
+    height: 100px;
+    margin-top: 108px;
+    margin-left: 425px;
+    position: absolute;
+    background-color: #EAEDFA;
+    border-radius: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.sardor2{
+    width: 545px;
+    height: 228px;
+    margin-top: 372px;
+    margin-left: 32px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 25px 0px #00000026;
+}
+.sardor3{
+    width: 545px;
+    height: 228px;
+    margin-top: 112px;
+    margin-left: 609px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 25px 0px #00000026;
+}
+.sardor4{
+    width: 545px;
+    height: 228px;
+    margin-top: 372px;
+    margin-left: 609px;
+    position: absolute;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 10px 25px 0px #00000026;
+}
+.kilo{
+    margin-top: 682px;
+    margin-left: 260px;
+    position: absolute;
+}
